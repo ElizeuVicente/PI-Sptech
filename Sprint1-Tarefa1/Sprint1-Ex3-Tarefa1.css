@@ -1,0 +1,33 @@
+.a {
+    background-color: #FFB151;
+    height: 500px;
+    width: 500px;
+}
+
+.b {
+    background-color: #5BFF60;
+    height: 50%;
+    width: 50%;
+}
+
+.c {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.d {
+    background-color: rgb(51, 255, 255);
+    width: 50%;
+    height: 50vh;
+
+
+}
+
+.e {
+    background-color: rgb(255, 0, 0);
+    height: 50%;
+    width: 75vw;
+}
